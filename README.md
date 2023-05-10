@@ -9,7 +9,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://megatvonline.github.io/megatvrepo</code> (Dar o nome de "repository.megatvrepo").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "megatvrepo", e instalar <a href="repository.megatvrepo-1.0.zip">repository.megatvrepo-1.0.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "megatvrepo", e instalar <a href="repository.megatvrepo.zip">repository.megatvrepo.zip</a>.</li>
     -
     <li>Repositório Instalado!</li>
     
