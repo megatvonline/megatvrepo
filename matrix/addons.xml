@@ -11,18 +11,19 @@
 </requires>  
 <extension point="xbmc.python.pluginsource" library="default.py">
 	<provides>video</provides>
-</extension>   
+</extension>
 <extension point="xbmc.addon.metadata">
-	 <summary lang="pt">[B][COLOR white]TV Ao Vivo, Filmes, Séries, Desenhos, Séries Animadas e Rádios FM[/COLOR][/B]</summary>
-    <description lang="pt">[B][COLOR lime]●[/COLOR] [COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR] [COLOR white]é Apenas um Agregador e Assim Como o Google.com, Apenas Agrega e Organiza os Links Externos. Não Somos Responsáveis Pelos Arquivos Aqui Encontrados.[/COLOR][/B] [B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a Venda dos Add-ons [COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B] [B][COLOR firebrick]●[/COLOR] [COLOR white]Não Vendemos IPTV, Caso Ache Sites ou Mesmo Apps é Falso.[/COLOR][/B]</description>
+	<summary lang="pt">[B][COLOR white]TV Ao Vivo, Filmes, Séries, Desenhos, Séries Animadas e Rádios FM[/COLOR][/B]</summary>
+	<description lang="pt">[B][COLOR lime]●[/COLOR] [COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR] [COLOR white]é Apenas um Agregador e Assim Como o Google.com, Apenas Agrega e Organiza os Links Externos. Não Somos Responsáveis Pelos Arquivos Aqui Encontrados.[/COLOR][/B] [B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a Venda dos Add-ons [COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B] [B][COLOR firebrick]●[/COLOR] [COLOR white]Não Vendemos IPTV, Caso Ache Sites ou Mesmo Apps é Falso.[/COLOR][/B]</description>
     <disclaimer lang="pt">[B][COLOR white]OBRIGADO POR ACESSAR NOSSO[/COLOR] [COLOR gold]ADD-ON[/COLOR][/B]</disclaimer>
-	<platform>all</platform>
+    <platform>all</platform>
 	<assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
     </assets>
-    <news>v3.0.0.matrix.1
-    - Addon Mega TV
+	<news>
+v3.0.0.matrix.1
+- Addon Mega TV
     </news>
 </extension>
 </addon>
