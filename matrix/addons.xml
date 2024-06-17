@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.megatv" 
+<addon id="plugin.video.megatv_matrix" 
        name="[B][COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B]" 
 	   version="3.0.0+matrix.1" 
 	   provider-name="[B][COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B]"> 
